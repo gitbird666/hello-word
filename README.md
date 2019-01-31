@@ -1,2 +1,3 @@
 # hello-word
-just a test
+只是一个测试
+加油  F飞起
